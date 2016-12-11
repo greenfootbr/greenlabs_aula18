@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bicho
+comment0.text=\r\n\ Classe\ para\ criar\ o\ personagem\ Bicho.\r\n\ \r\n\ @author\ (Jhonatan\ Morais\ -\ jhonatanvinicius@gmail.com\ |\ jhonatan@dfjug.org)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Bicho\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ sairDeCena()
+comment3.params=
+comment3.target=void\ movimentaBicho()
+comment4.params=
+comment4.target=void\ gerenciamentoDaCaminhada()
+comment4.text=\r\n\ Gerenciar\ todos\ as\ instru\u00E7\u00F5es\ de\ movimento\ durante\ a\ caminhada\ do\ personagem.\r\n
+comment5.params=
+comment5.target=boolean\ possoAtualizar()
+comment5.text=\r\n\ Verifica\ se\ a\ imgem\ do\ ator\ ja\ pode\ ser\ atualizada\r\n
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Moedaria
+comment0.text=\r\n\ Classe\ para\ gerenciar\ as\ moedas\ do\ jogo\r\n\ \r\n\ @author\ (Jhonatan\ Morais\ -\ jhonatanvinicius@gmail.com\ |\ jhonatan@dfjug.org)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ sairDeCena()
+comment3.params=
+comment3.target=void\ movimentaMoeda()
+comment4.params=
+comment4.target=void\ rodaMoeda()
+comment4.text=\r\n\ Gerenciar\ todos\ as\ instru\u00E7\u00F5es\ de\ movimento\ durante\ o\ giro\ da\ moeda.\r\n
+comment5.params=
+comment5.target=boolean\ possoAtualizar()
+comment5.text=\r\n\ Verifica\ se\ a\ imgem\ do\ ator\ ja\ pode\ ser\ atualizada\r\n
+numComments=6
